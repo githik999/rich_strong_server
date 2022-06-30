@@ -1,2 +1,2 @@
 # rich_strong_server
-rich strong server side 
+the server side of rich strong
